@@ -1,112 +1,91 @@
-# Hi, I'm Aniket Pangavhane 👋
+# Hi 👋, I'm Aniket Pangavhane
 
-I am a **Backend and Full Stack Developer** with hands-on experience in building scalable, secure web applications and immersive AR/VR experiences. I enjoy working across the stack—from designing REST APIs and databases to developing interactive user experiences.
+**AI & Machine Learning Engineer | Python & FastAPI Developer | Full-Stack AI Builder**
 
-I am currently seeking **internship and entry-level opportunities** where I can contribute to real-world projects and grow as a software engineer.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech in Information Technology (Data Analytics) at MIT ADT University, Pune  
-- 💻 Strong foundation in **Backend Development (Node.js, Express.js)**  
-- 🌐 Experience in **Full Stack Development (React + Node.js)**  
-- 🧠 Built secure authentication systems using **JWT & Role-Based Access Control**  
-- 🎮 Worked on **AR/VR projects using Unity 3D**  
-- 🚀 Passionate about building production-ready applications and learning system design
+I build production-ready AI applications, Retrieval-Augmented Generation (RAG) pipelines, and high-throughput REST APIs. I enjoy taking machine learning and LLM workflows from experimentation to containerized, full-stack deployments using Python, FastAPI, React, and Docker.
 
 ---
 
-## 🛠️ Technical Skills
-
-### Backend Development
-- Node.js, Express.js  
-- REST API Design & Integration  
-- Authentication & Authorization (JWT, RBAC)  
-- Middleware, Error Handling, MVC Architecture  
-
-### Frontend Development
-- React.js  
-- HTML, CSS, JavaScript (ES6+)  
-
-### Databases
-- MongoDB (Mongoose)  
-- MySQL  
-- PostgreSQL (Basic)
-
-### AR/VR Development
-- Unity 3D  
-- AR/VR SDKs  
-- Scene Optimization & Interaction Systems  
-
-### Tools & Platforms
-- Git & GitHub  
-- Postman  
-- VS Code  
-- MongoDB Atlas  
+### 👨‍💻 About Me
+- 🎓 **B.Tech in Information Technology** (2022–2026) — MIT School of Computing (MIT ADT University), Pune
+- 🧠 Hands-on experience architecting **RAG pipelines**, vector search systems (**FAISS**), and **multi-agent workflows**
+- ⚡ Building asynchronous backend microservices with **Python** and **FastAPI**
+- 🌐 Developing full-stack interfaces in **React** backed by **PostgreSQL** and **Supabase**
+- 🐳 Containerizing and deploying applications using **Docker**, **GitHub Actions**, and **Vercel**
 
 ---
 
-## 📌 Featured Projects
+### 🛠️ Technical Skills
 
-### 🔐 Full Stack Authentication & Authorization System
-**Tech:** React.js, Node.js, Express.js, MongoDB, JWT  
+**Generative AI & LLMs**
+- Retrieval-Augmented Generation (RAG), Vector Embeddings, Semantic Search
+- FAISS, Mistral-7B, Hugging Face Inference API, Multi-Agent Systems
 
-- Developed a production-ready full stack authentication system  
-- Implemented JWT-based stateless authentication with token expiry  
-- Designed role-based access control (Admin/User) using middleware  
-- Secured passwords using bcrypt hashing  
-- Structured scalable backend architecture suitable for SaaS applications  
+**Machine Learning & Data**
+- Supervised & Unsupervised Learning, Feature Engineering
+- Random Forest, Naive Bayes, TF-IDF, OCR Processing, Data Pipelines
 
-🔗 Repository: https://github.com/aniketpangavhane/<repo-name>
+**Backend & APIs**
+- Python, FastAPI, RESTful Microservices
 
----
+**Frontend & Databases**
+- JavaScript (ES6+), ReactJS, HTML, CSS
+- SQL, PostgreSQL, Supabase
 
-### 🛍️ ShopEase – Full Stack E-Commerce Application
-**Tech:** React.js, Node.js, Express.js, MySQL / MongoDB  
-
-- Built REST APIs for products, users, carts, and orders  
-- Integrated React frontend with Node.js backend  
-- Designed and optimized database schemas  
-- Implemented authentication-protected routes  
-- Prepared backend for future payment gateway integration  
-
-🔗 Repository: https://github.com/aniketpangavhane/<repo-name>
+**Tools & Deployment**
+- Docker, Git, GitHub, GitHub Actions (CI/CD), Vercel, AWS (EC2), GCP
 
 ---
 
-### 🎮 AR/VR Interactive Experience Project
-**Tech:** Unity 3D, AR/VR SDK  
+### 📌 Featured Projects
 
-- Developed immersive virtual environments with real-time interactions  
-- Implemented navigation systems and gaze-based interaction triggers  
-- Optimized 3D scenes for smooth VR performance  
-- Worked as **Technical Co-Lead**, guiding team members and planning workflows  
+#### 🩺 Post-Discharge Medical AI Assistant with RAG
+**Tech Stack:** `Python` `FastAPI` `FAISS` `Mistral-7B` `Hugging Face API` `Docker`
+- Engineered a RAG-based clinical assistant indexing 100+ nephrology records using FAISS vector search and Mistral-7B.
+- Achieved 90%+ semantic retrieval accuracy by optimizing embedding similarity search and query routing.
+- Orchestrated multi-agent workflows (receptionist & clinical agents) for contextual patient query handling.
+- 🔗 **Repository:** [github.com/aniketpangavhane](https://github.com/aniketpangavhane)
 
-🔗 Repository / Demo: https://github.com/aniketpangavhane/<repo-name>
+#### 🎯 Career AI Guidance Platform
+**Tech Stack:** `React` `FastAPI` `Supabase` `TF-IDF` `Naive Bayes` `Docker` `Vercel`
+- Built an end-to-end career guidance platform featuring automated resume scoring, skill extraction, and candidate matching.
+- Developed a React frontend integrated with asynchronous FastAPI microservices and Supabase authentication.
+- Containerized backend services with Docker and configured CI/CD deployment pipelines on Vercel.
+- 🔗 **Repository:** [github.com/aniketpangavhane](https://github.com/aniketpangavhane)
+
+#### 💰 AI Wealth & Finance Manager
+**Tech Stack:** `Python` `Machine Learning` `OCR` `FastAPI` `React` `Docker`
+- Created an automated expense management system using OCR receipt ingestion and custom ML classifiers for transaction categorization.
+- Built real-time analytics dashboards in React to visualize spending distribution and financial health metrics.
+- Configured multi-stage Docker builds for scalable deployment.
+- 🔗 **Repository:** [github.com/aniketpangavhane](https://github.com/aniketpangavhane)
+
+#### 🌱 AgroInspect – Smart Crop Recommendation System
+**Tech Stack:** `Python` `Random Forest` `Scikit-Learn` `Docker`
+- Trained and tuned a Random Forest model on multi-variable soil metrics (pH, Nitrogen, Phosphorus, Potassium) to recommend optimal crops.
+- Built an end-to-end feature preprocessing pipeline and containerized the application with Docker for cross-environment reliability.
+- 🔗 **Repository:** [github.com/aniketpangavhane](https://github.com/aniketpangavhane)
 
 ---
 
-## 🧩 Leadership Experience
+### 🏆 Certifications & Leadership
 
-### Tech Co-Lead – Mirage AR/VR Club, MIT ADT University
-- Conducted hands-on workshops on Unity and VR development  
-- Assisted students with debugging, optimization, and project setup  
-- Led technical planning and execution for AR/VR initiatives  
-
----
-
-## 🎯 What I’m Looking For
-- Backend Developer Intern  
-- Full Stack Developer Intern  
-- Software Engineer (Entry Level)  
-
-I am particularly interested in roles where I can work on **real-world products**, collaborate with experienced developers, and improve my system design and backend engineering skills.
+- **AWS Academy Graduate** – Cloud Foundations Training (EC2, S3, IAM)
+- **Python 3 & Data Structures Certification** – OOP, File Handling, Memory Optimization (Score: 80/100)
+- **Technical Co-Lead** – Mirage AR/VR Club, MIT ADT University *(Led technical workshops, project workflows, and debugging sessions)*
 
 ---
 
-## 📫 Let’s Connect
+### 🎯 What I’m Looking For
+I am seeking **entry-level / full-time opportunities** in:
+- **AI / Machine Learning Engineer**
+- **Backend Developer (Python / FastAPI)**
+- **Full-Stack AI Developer**
+- **Software Engineer**
 
-- 📧 Email: aniketpangavhane3@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/aniketpangavhane  
-- 💻 GitHub: https://github.com/aniketpangavhane
+---
+
+### 📫 Let’s Connect
+- 📧 **Email:** [aniketpangavhane3@gmail.com](mailto:aniketpangavhane3@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/aniket-pangavhane](https://linkedin.com/in/aniket-pangavhane)
+- 💻 **GitHub:** [github.com/aniketpangavhane](https://github.com/aniketpangavhane)
